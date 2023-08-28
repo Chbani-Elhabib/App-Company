@@ -5,7 +5,7 @@
   <img src="Image/logo.png" height="150"/>
 </p>
 <h1> App company landing page </h1>
-<h3><img src="Image/Table.png" height="20" width="20px"/> Table of Contents </h3>
+<h3><img src="Image/Table.png" height="25" width="20px"/> Table of Contents </h3>
 
  - [Description](#Description)
  - [Versions](#Versions)
