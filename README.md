@@ -41,7 +41,7 @@
 
 > <img src="Image/Tablet.png" height="25" width="25px"/> **Tablet**
 
-> <img src="Image/Photo.png" height="25" width="25px"/> **Phone**
+> <img src="Image/Phone.png" height="25" width="25px"/> **Phone**
 
 
 
