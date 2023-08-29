@@ -30,10 +30,10 @@
 <p>Upon landing on the site, you'll be greeted by a sleek and intuitive interface, reflecting our commitment to modern design aesthetics. The homepage provides a snapshot of our expertise, with vibrant visuals and concise descriptions that showcase our proficiency in creating apps for both Android and iOS platforms.</p>
 <h3><img src="Image/Version.png" height="25" width="30px"/> Versions </h3>
 <h3><img src="Image/Technologies.png" height="25" width="30px"/> Technologies used </h3>
-<h3><img src="Image/Libraries.png" height="30" width="30px"/> Libraries and Tools used </h3>
-<h3><img src="Image/installation.png" height="25" width="30px"/> installation </h3>
+<h3><img src="Image/Libraries.png" height="30" width="25px"/> Libraries and Tools used </h3>
+<h3><img src="Image/installation.png" height="25" width="25px"/> installation </h3>
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
-<h3><img src="Image/Photo.png" height="25" width="30px"/> Photo </h3>
+<h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>
 
 
 
