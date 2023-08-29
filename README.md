@@ -35,13 +35,13 @@
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
 <h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>  
 
-> **Desktop**
+> <img src="Image/Desktop.png" height="25" width="25px"/> **Desktop**
 
-> **Laptop**
+> <img src="Image/Laptop.png" height="25" width="25px"/> **Laptop**
 
-> **Tablet**
+> <img src="Image/Tablet.png" height="25" width="25px"/> **Tablet**
 
-> **Phone**
+> <img src="Image/Photo.png" height="25" width="25px"/> **Phone**
 
 
 
