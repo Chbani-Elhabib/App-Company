@@ -33,11 +33,10 @@
 <h3><img src="Image/Libraries.png" height="30" width="25px"/> Libraries and Tools used </h3>
 <h3><img src="Image/installation.png" height="25" width="25px"/> installation </h3>
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
-<h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>
+<h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>    	
+<h4>Desktop</h4>
 
-	-<h4>Desktop</h4>
-
-
+>> Desktop
 
 
 
