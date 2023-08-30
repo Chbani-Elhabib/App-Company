@@ -45,6 +45,7 @@
 <h3><img src="Image/Site Web.png" height="25" width="25px"/> Site Web </h3>
 <h3><img src="Image/Licensing.png" height="25" width="25px"/> Licensing </h3>
 <h3><img src="Image/Developers.png" height="25" width="25px"/> Developers </h3>
+<img src="Image/CHBANI El Habib.png"/>
 <h3><img src="Image/Support.png" height="25" width="25px"/> Support </h3>
 <p align="center">
 	<a href="https://www.instagram.com/elhabib_chbani" target="_blank" >
