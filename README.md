@@ -47,7 +47,11 @@
 <h3><img src="Image/Developers.png" height="25" width="25px"/> Developers </h3>
 <h3><img src="Image/Support.png" height="25" width="25px"/> Support </h3>
 <h3><img src="Image/Social media.png" height="25" width="25px"/> Social media </h3>
-
+<p align="center">
+	<a href="https://linktr.ee/chbani.elbabib" target="_blank" >
+		<img src="Image/Social media lfity.png" />
+	</a>
+</p>
 
 
 
