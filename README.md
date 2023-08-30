@@ -21,7 +21,6 @@
  - [Site Web](#SiteWeb)
  - [Licensing](#licensing)
  - [Developers](#developers)
- - [About](#About)
  - [Support](#support)
  - [Social media](#socialmedia)
 
@@ -43,7 +42,11 @@
 
 > <img src="Image/Phone.png" height="25" width="25px"/> **Phone**
 
-
+<h3><img src="Image/Site Web.png" height="25" width="25px"/> Site Web </h3>
+<h3><img src="Image/Licensing.png" height="25" width="25px"/> Licensing </h3>
+<h3><img src="Image/Developers.png" height="25" width="25px"/> Developers </h3>
+<h3><img src="Image/Support.png" height="25" width="25px"/> Support </h3>
+<h3><img src="Image/Social media.png" height="25" width="25px"/> Social media </h3>
 
 
 
