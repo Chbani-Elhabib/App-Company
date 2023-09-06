@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/JahidHasanCO/BuyNow.-The-E-commerce-App/master/ART/cover.png"/>
 </p>
 <p align="center">
-  <img src="Image/logo.png" height="150"/>
+  <img src="Image/image page/logo.png" height="150"/>
 </p>
 <h1> App company landing page </h1>
 <h3><img src="Image/Table.png" height="30" width="30px"/> Table of Contents </h3>
@@ -34,13 +34,7 @@
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
 <h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>  
 
-<h4 align="center"><img src="Image/Desktop.png" height="25" width="25px"/> Desktop </h4>  
-
-<p align="center">
-	<img src="Image/image README/image Desktop.png" />
-</p>
-
-> <img src="Image/Laptop.png" height="25" width="25px"/> **Laptop**
+<h4 align="center"><img src="Image/Desktop.png" height="25" width="25px"/> Desktop &&  <img src="Image/Laptop.png" height="25" width="25px"/> Laptop </h4>  
 
 <p align="center">
 	<img src="Image/image README/image Desktop.png" />

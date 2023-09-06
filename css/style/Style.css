@@ -2102,6 +2102,30 @@ responsive
   }
 }
 
+@media (max-width: 988px) {
+  .header-area .main-nav{
+    width: 863px;
+    position: relative;
+    left: -95px;
+  }
+
+  .the-clients .nacc .thumb .down-content{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .the-clients .nacc .thumb .down-content img{
+    margin-bottom: 13px;
+  }
+
+  footer .section-heading{
+    margin-top: 30px;
+  }
+}
+
 @media (max-width: 992px) {
   .header-area {
     background-color: #fff;
