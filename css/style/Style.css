@@ -1738,8 +1738,10 @@ header.slideInDown .logo{
 }
 
 .footer-widget .logo img {
-  max-width: 96px;
-  margin-bottom: 30px;
+  width: 173px;
+  height: 148px;
+  position: relative;
+  top: -46px;
 }
 
 .footer-widget h4 {
@@ -1751,6 +1753,11 @@ header.slideInDown .logo{
 
 .footer-widget p {
   margin-bottom: 15px;
+}
+
+.footer-widget p.tahtlogo{
+  position: relative;
+  top: -69px;
 }
 
 .footer-widget p,
@@ -1767,6 +1774,10 @@ header.slideInDown .logo{
 
 .footer-widget ul li {
   margin-bottom: 10px;
+}
+
+Fouter .container .row:last-child {
+  margin-bottom: -59px;
 }
 
 .footer-widget ul li:last-child {
@@ -1786,8 +1797,7 @@ header.slideInDown .logo{
 
 footer .copyright-text p {
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: 0px;
+  margin-top: -62px;
   color: #fff;
 }
 
@@ -1799,6 +1809,10 @@ footer p a {
 footer p a:hover {
   opacity: 0.75;
   color: #fff;
+}
+
+Footer .container .row:last-child {
+  margin-bottom: -59px;
 }
 
 

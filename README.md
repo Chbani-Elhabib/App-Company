@@ -35,9 +35,13 @@
 <h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>  
 
 > <img src="Image/Desktop.png" height="25" width="25px"/> **Desktop**
-
+<p align="center">
+	<img src="Image/image README/image Desktop.png" />
+</p>
 > <img src="Image/Laptop.png" height="25" width="25px"/> **Laptop**
-
+<p align="center">
+	<img src="Image/image README/image Desktop.png" />
+</p>
 > <img src="Image/Tablet.png" height="25" width="25px"/> **Tablet**
 
 > <img src="Image/Phone.png" height="25" width="25px"/> **Phone**
