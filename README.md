@@ -35,15 +35,17 @@
 <h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>  
 
 <h4 align="center"><img src="Image/Desktop.png" height="25" width="25px"/> Desktop &&  <img src="Image/Laptop.png" height="25" width="25px"/> Laptop </h4>  
-
 <p align="center">
 	<img src="Image/image README/image Desktop.png" />
 </p>
-
-> <img src="Image/Tablet.png" height="25" width="25px"/> **Tablet**
-
-> <img src="Image/Phone.png" height="25" width="25px"/> **Phone**
-
+<h4 align="center"><img src="Image/Tablet.png" height="25" width="25px"/> Tablet </h4>  
+<p align="center">
+	<img src="Image/image README/image Tablet.png" />
+</p>
+<h4 align="center"><img src="Image/Phone.png" height="25" width="25px"/> Phone </h4>  
+<p align="center">
+	<img src="Image/image README/image Phone.png" />
+</p>
 <h3><img src="Image/Site Web.png" height="25" width="25px"/> Site Web </h3>
 <p align="center">
 	<a href="https://www.instagram.com/elhabib_chbani" target="_blank" >
