@@ -30,8 +30,8 @@
 <img src="Image/image README/image Technologies.png" />
 <h3><img src="Image/Libraries.png" height="30" width="25px"/> Libraries and Tools used </h3>
 
-* <h3><img src="Image/image README/Google fonts.png" /><a href="https://www.instagram.com/elhabib_chbani" target="_blank" > Google fonts</a></h3>
-* <p><img src="Image/image README/fontawesome.png" /><a href="https://www.instagram.com/elhabib_chbani" target="_blank" > fontawesome </a></p>
+* <p><img src="Image/image README/Google fonts.png" /><a href="https://fonts.google.com" target="_blank" > Google fonts</a></p>
+* <p><img src="Image/image README/fontawesome.png" /><a href="https://fontawesome.com" target="_blank" > fontawesome </a></p>
 
 <h3><img src="Image/installation.png" height="25" width="25px"/> installation </h3>
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
