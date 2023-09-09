@@ -34,13 +34,16 @@
 * <p><img src="Image/image README/fontawesome.png" /><a href="https://fontawesome.com" target="_blank" > fontawesome </a></p>
 
 <h3><img src="Image/installation.png" height="25" width="25px"/> installation </h3>
+<p> 1- download file project app company </p>
 
 ```
-git clone git@github.com:fleetbase/storefront-app.git
-cd storefront-app
-yarn
-npx pod-install
-touch .env
+git clone https://github.com/Chbani-Elhabib/App-Company.git
+```
+
+<p> 2- </p>
+
+```
+cd App-Company
 ```
 
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
