@@ -34,6 +34,15 @@
 * <p><img src="Image/image README/fontawesome.png" /><a href="https://fontawesome.com" target="_blank" > fontawesome </a></p>
 
 <h3><img src="Image/installation.png" height="25" width="25px"/> installation </h3>
+
+```
+git clone git@github.com:fleetbase/storefront-app.git
+cd storefront-app
+yarn
+npx pod-install
+touch .env
+```
+
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
 <h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>  
 
