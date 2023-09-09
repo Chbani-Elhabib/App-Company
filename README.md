@@ -4,7 +4,7 @@
 <p align="center">
   <img src="Image/image page/logo.png" height="150"/>
 </p>
-<h1> App company landing page </h1>
+<h2> App company landing page </h2>
 <h3><img src="Image/Table.png" height="30" width="30px"/> Table of Contents </h3>
 
  - [Description](#Description)
