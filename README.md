@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/JahidHasanCO/BuyNow.-The-E-commerce-App/master/ART/cover.png"/>
+  <img src="Image/image README/App.png"/>
 </p>
 <p align="center">
   <img src="Image/image page/logo.png" height="150"/>
