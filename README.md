@@ -47,6 +47,22 @@ cd App-Company
 ```
 
 <h3><img src="Image/File.png" height="25" width="25px"/> File structure </h3>
+
+```
+.
+├── 📂 Image
+│	├── 📂 image README
+│   └── 📂 image page
+├── 📂 css
+├── 📂 js
+├── 📄 README.md
+└── 📄 index.html
+    ├── 📄 index.tsx
+    └── 📂 components
+        ├── ...
+        └── 📄 ComponentName.tsx
+```
+
 <h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>  
 
 <h4 align="center"><img src="Image/Desktop.png" height="25" width="25px"/> Desktop &&  <img src="Image/Laptop.png" height="25" width="25px"/> Laptop </h4>  
