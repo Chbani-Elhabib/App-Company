@@ -40,7 +40,7 @@
 git clone https://github.com/Chbani-Elhabib/App-Company.git
 ```
 
-<p> 2- </p>
+<p> 2- Insert to file App-Company </p>
 
 ```
 cd App-Company
@@ -54,6 +54,9 @@ cd App-Company
 │   ├── 📂 ..
 │   ├── 📂 image README
 │   └── 📂 image page
+│       ├── 📂 ..
+│       ├── 📷 logo fouter.png
+│       └── 📷 logo.png
 ├── 📂 css
 │   ├── 📂 ..
 │   ├── 📂 bootstrap
@@ -99,7 +102,7 @@ cd App-Company
 </p>
 <h3><img src="Image/image README/Site Web.png" height="25" width="25px"/> Site Web </h3>
 <p align="center">
-	<a href="https://www.instagram.com/elhabib_chbani" target="_blank" >
+	<a href="https://chbani-elhabib.github.io/App-Company" target="_blank" >
 		<img src="Image/image README/click hear.png" />
 	</a>
 </p>
