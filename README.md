@@ -55,7 +55,7 @@ cd App-Company
 │	├── 📂 image README
 │   └── 📂 image page
 ├── 📂 css
-│	├── ..
+│   ├── ..
 │	├── 📂 bootstrap
 │	│	├── ..
 │	│	├── 📄 Bootstrap.min.css
@@ -65,12 +65,16 @@ cd App-Company
 │		├── 📄 Animated.css
 │		└── 📄 Style.css
 ├── 📂 js
+│   ├── ..
+│   ├── 📂 bootstrap
+│   ├── 📂 jquery
+│   ├── 📄 Animation.js
+│   ├── 📄 Custom.js
+│   ├── 📄 owl-carousel.js
+│   └── 📄 popup.js
 ├── 📄 README.md
 └── 📄 index.html
-    ├── 📄 index.tsx
-    └── 📂 components
-        ├── ...
-        └── 📄 ComponentName.tsx
+
 ```
 
 <h3><img src="Image/Photo.png" height="25" width="25px"/> Photo </h3>  
