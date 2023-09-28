@@ -71,6 +71,9 @@ cd App-Company
 │   │   ├── 📄 Bootstrap.bundle.min.js
 │   │   └── 📄 Bootstrap.bundle.min.js.map
 │   ├── 📂 jquery
+│   │   ├── 📂 ..
+│   │   ├── 📄 Jquery.min.js
+│   │   └── 📄 Jquery.min.map
 │   ├── 📄 Animation.js
 │   ├── 📄 Custom.js
 │   ├── 📄 owl-carousel.js
